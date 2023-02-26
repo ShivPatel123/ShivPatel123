@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShivPatel123
 - 👀 I’m interested in Robotics, Software Development, Machine Learning, and Upcoming Technologies!
-- 🌱 I’m currently studying Computer Engineering at Iowa Stagte University.
+- 🌱 I’m currently studying Computer Engineering at Iowa State University.
 - 💞️ I’m looking to collaborate on projects and ideas which can test and develop programming skills!
 - 📫 You can contact me at Shivanshpatel123@gmail.com if you would like to reach me
 
