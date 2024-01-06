@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @ShivPatel123
-- 👀 I’m interested in Software Development, Machine Learning, and Upcoming Technologies!
-- 🌱 I’m currently studying Computer Engineering at Iowa State University.
-- 💞️ I’m looking to collaborate on projects and ideas which can test and develop programming skills!
-- 📫 You can contact me at shivanshpatel123@gmail.com if you would like to reach me
+<h1>👋 Hi, I’m Shiv </h1>
+<h4>Computer Engineering Student at Iowa State University</h4>
+You can contact me at shivanshpatel123@gmail.com
 
 <!---
 ShivPatel123/ShivPatel123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
